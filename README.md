@@ -18,4 +18,5 @@ run_analysis.R contains the R code for the above transformations along with comm
 
 codebook.txt, code book.doc contain the Codebook with details on transformations and variables. 
 CodeBook cosists of list of variables with detailed description for a few variabled due to time constraints. 
+Rest of the variables were listed along with general description from the original source.
 
